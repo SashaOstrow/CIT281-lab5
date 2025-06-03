@@ -1,3 +1,4 @@
+# Lab 5
 Lab goals and outcomes:
 
     Part 1: Download and install Postman
@@ -11,3 +12,5 @@ Lab goals and outcomes:
 Use Postman and POST request:
 
     Test the post code by adding a POST request to Postman, adding a Content-Type header as application/json, and a JSON body with test data.
+
+Lab 5 builds essential skills for **REST API development**, **server-side logic**, and **manual API testing**, preparing you for more complex full-stack projects in the course.
