@@ -10,4 +10,4 @@ Lab goals and outcomes:
     
 Use Postman and POST request:
 
-:Test the post code by adding a POST request to Postman, adding a Content-Type header as application/json, and a JSON body with test data.
+1:Test the post code by adding a POST request to Postman, adding a Content-Type header as application/json, and a JSON body with test data.
