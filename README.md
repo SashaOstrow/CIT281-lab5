@@ -8,6 +8,6 @@ Lab goals and outcomes:
     Part 6: Add POST handling to server application and respond with JSON
     Part 7: Use Postman and POST request
     
-Use Postman and POST request
+Use Postman and POST request:
 
 :Test the post code by adding a POST request to Postman, adding a Content-Type header as application/json, and a JSON body with test data.
